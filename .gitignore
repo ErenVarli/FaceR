@@ -1,0 +1,5 @@
+# Google creds
+application_default_credentials.json
+
+# venv
+venv/

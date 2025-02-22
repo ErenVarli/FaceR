@@ -1,0 +1,57 @@
+[
+    {
+        "user_id": "X79zcvC1",
+        "first_name": "Eren",
+        "last_name": "Varli",
+        "full_name": "Eren Varli",
+        "sex": "Male",
+        "height": "5'9\"",
+        "eye_color": "Brown",
+        "description": "Student at Epitech, Designer & Developer of IntelliSearch",
+        "wanted": false
+    },
+    {
+        "user_id": "X79zcvC2",
+        "first_name": "Elon",
+        "last_name": "Musk",
+        "full_name": "Elon Musk",
+        "sex": "Male",
+        "height": "6'2\"",
+        "eye_color": "Moss Green",
+        "description": "Tesla CEO",
+        "wanted": false
+    },
+    {
+        "user_id": "X79zcvC3",
+        "first_name": "Barack",
+        "last_name": "Obama",
+        "full_name": "Barack Obama",
+        "sex": "Male",
+        "height": "6'1\"",
+        "eye_color": "Brown",
+        "description": "44th President of USA",
+        "wanted": false
+    },    
+    {
+        "user_id": "X79zcvC4",
+        "first_name": "Steven Paul",
+        "last_name": "Jobs",
+        "full_name": "Steven Paul Jobs",
+        "sex": "Male",
+        "height": "6'2\"",
+        "eye_color": "Brown",
+        "description": "Steve Jobs (1955 / 2011) was an American entrepreneur, inventor, and visionary best known as the co-founder of Apple Inc.",
+        "wanted": false
+    },
+    {
+        "user_id": "X79zcvC5",
+        "first_name": "Wilver",
+        "last_name": "Villegas-Palomino",
+        "full_name": "Wilver Villegas-Palomino",
+        "sex": "Male",
+        "height": "5'7\"",
+        "eye_color": "Brown",
+        "description": "Narco-Terrorism; International Cocaine Distribution Conspiracy; International Cocaine Distribution",
+        "wanted": true
+    }
+]
